@@ -1,0 +1,16 @@
+admin
+backup
+config
+secret
+examples-of-static-websites
+Reservation
+css
+robots.txt
+sitemap.xml
+dashboard
+event
+lab
+notification
+stats
+support
+terms
