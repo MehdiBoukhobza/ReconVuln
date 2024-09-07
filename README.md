@@ -1,7 +1,7 @@
 # BrokenAccessControl
 
 ## Overview
-BrokenAccessControl is a robust security testing tool designed for web applications. It aims to assist developers and security professionals by identifying and addressing a variety of security vulnerabilities, including broken access control, brute force attacks, and multiple injection types.
+ReconVuln is a robust security testing tool designed for web applications. It aims to assist developers and security professionals by identifying and addressing a variety of security vulnerabilities, including broken access control, brute force attacks, and multiple injection types.
 
 ## Features
 ### Security Tests
